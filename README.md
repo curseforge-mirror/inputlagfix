@@ -1,6 +1,6 @@
-# BuyEmAll Mirror
+# InputLagFix Mirror
 
-This is a mirror of ghanvert001's InputLagFix 
+This is a mirror of ghanvert001's InputLagFix
 
 - [Curseforge URL](https://www.curseforge.com/wow/addons/inputlagfix)
 
